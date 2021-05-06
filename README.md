@@ -1,4 +1,4 @@
-# DrakeCalculator
+# Drake's Calculator
 Drake's Calculator
 
 Drake's Bilingal Calculator
