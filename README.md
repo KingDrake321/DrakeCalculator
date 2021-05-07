@@ -1,6 +1,6 @@
 # Drake's Calculator
-     Drake's Calculator
-   A Open Source Project
+   Drake's Calculator
+  A Open Source Project
 
 Drake's Bilingal Calculator
 
